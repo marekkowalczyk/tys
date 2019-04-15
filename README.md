@@ -1,8 +1,9 @@
 # vul -- Latin Vulgate Bible on the Command Line
 
-A command line tool for search and reading the Clementine Vulgate.
+A command line tool for search and reading the Biblia Tysiąclecia.
 
-Format and original implementation from [bontibon/kjv](https://github.com/bontibon/kjv). Meant to be a companion program.
+Format and original implementation from [bontibon/kjv](https://github.com/bontibon/kjv),
+as modified in [lukesmithxyz/vul](https://github.com/lukesmithxyz/vul.git). 
 
 ## Usage
 
@@ -33,18 +34,15 @@ Format and original implementation from [bontibon/kjv](https://github.com/bontib
           <Book>:<Chapter>/<Search>
               All verses in a chapter of a book that match a pattern
 
-## Notes and Contents
-
-- I/II Samuel and I/II Kings are named with their English titles despite the fact that in Latin they are respectively I-IV Kings. This is simply because the interface is in English and is supposed to be consistent with `kjv`.
-
+See `tys-skroty.md` for list of Books and their names. 
 
 ## Install
 
-Install `vul` by running:
+Install `tys` by running:
 
 ```
-git clone https://github.com/lukesmithxyz/vul.git
-cd vul
+git clone https://github.com/marekkowalczyk/tys
+cd tys
 sudo make install
 ```
 

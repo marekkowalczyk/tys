@@ -1,25 +1,25 @@
 
 PREFIX = /usr/local
 
-vul: vul.sh vul.awk vul.tsv
-	cat vul.sh > $@
+tys: tys.sh tys.awk tys.tsv
+	cat tys.sh > $@
 	echo 'exit 0' >> $@
 	echo "#EOF" >> $@
-	tar cz vul.awk vul.tsv >> $@
+	tar cz tys.awk tys.tsv >> $@
 	chmod +x $@
 
-test: vul.sh
-	shellcheck -s sh vul.sh
+test: tys.sh
+	shellcheck -s sh tys.sh
 
 clean:
-	rm -f vul
+	rm -f tys
 
-install: vul
+install: tys
 	mkdir -p $(DESTDIR)$(PREFIX)/bin
-	cp -f vul $(DESTDIR)$(PREFIX)/bin
-	chmod 755 $(DESTDIR)$(PREFIX)/bin/vul
+	cp -f tys $(DESTDIR)$(PREFIX)/bin
+	chmod 755 $(DESTDIR)$(PREFIX)/bin/tys
 
 uninstall:
-	rm -f $(DESTDIR)$(PREFIX)/bin/vul
+	rm -f $(DESTDIR)$(PREFIX)/bin/tys
 
 .PHONY: test clean install uninstall
