@@ -2,17 +2,17 @@ Pisma Hebrajsko-Aramejskie - Stary Testament
 ============================================
 
 	01	Rdz	:	Rodzaju
-	02	Wj	:	Wyjúcia
-	03	Kp≥	:	Kap≥aÒska
+	02	Wj	:	Wyj≈õcia
+	03	Kp≈Ç	:	Kap≈Ça≈Ñska
 	04	Lb	:	Liczb
-	05	Pwt	:	PowtÛrzonego Prawa
+	05	Pwt	:	Powt√≥rzonego Prawa
 	06	Joz	:	Jozuego
-	07	Sdz	:	SÍdziÛw
+	07	Sdz	:	Sƒôdzi√≥w
 	08	Rt	:	Rut
 	09	1Sm	:	1 Samuela
 	10	2Sm	:	2 Samuela
-	11	1Krl	:	1 KrÛlÛw
-	12	2Krl	:	2 KrÛlÛw
+	11	1Krl	:	1 Kr√≥l√≥w
+	12	2Krl	:	2 Kr√≥l√≥w
 	13	1Krn	:	1 Kronik
 	14	2Krn	:	2 Kronik
 	15	Ezd	:	Ezdrasza
@@ -20,9 +20,9 @@ Pisma Hebrajsko-Aramejskie - Stary Testament
 	17	Est	:	Estery
 	18	Jo	:	Joba
 	19	Ps	:	Psalmy
-	20	Prz	:	Przys≥Ûw
+	20	Prz	:	Przys≈Ç√≥w
 	21	Kzn	:	Kaznodziei /Koheleta/
-	22	Pnp	:	PieúÒ nad Pieúniami	
+	22	Pnp	:	Pie≈õ≈Ñ nad Pie≈õniami	
 	23	Iz	:	Izajasza
 	24	Jr	:	Jeremiasza
 	25	Lm	:	Lamentacje
@@ -41,18 +41,18 @@ Pisma Hebrajsko-Aramejskie - Stary Testament
 	38	Za	:	Zachariasza
 	39	Ml	:	Malachiasza
 
-ChrzeúcijaÒskie Pisma Greckie - Nowy Testament
+Chrze≈õcija≈Ñskie Pisma Greckie - Nowy Testament
 ==============================================
 
 	40	Mt	:	Mateusza
 	41	Mk	:	Marka
-	42	£k	:	£ukasza
+	42	≈Åk	:	≈Åukasza
 	43	J	:	Jana
 	44	Dz	:	Dzieje Apostolskie
 	45	Rz	:	Rzymian
 	46	1Kor	:	1 Koryntian
 	47	2Kor	:	2 Koryntian
-	48	Ga	:	GalatÛw
+	48	Ga	:	Galat√≥w
 	49	Ef	:	Efezjan
 	50	Flp	:	Filipian
 	51	Kol	:	Kolosan
@@ -62,7 +62,7 @@ ChrzeúcijaÒskie Pisma Greckie - Nowy Testament
 	55	2Tm	:	2 Tymoteusza	
 	56	Tt	:	Tytusa	
 	57	Flm	:	Filemona	
-	58	Hbr	:	HebrajczykÛw	
+	58	Hbr	:	Hebrajczyk√≥w	
 	59	Jk	:	Jakuba	
 	60	1P	:	1 Piotra	
 	61	2P	:	2 Piotra	

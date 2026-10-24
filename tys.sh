@@ -39,7 +39,7 @@ show_help() {
 	echo "          Range of chapters and verses in a book"
 	echo
 	echo "      /<Search>"
-	echo "          All verses that match a pattern"${1
+	echo "          All verses that match a pattern"
 	echo "      <Book>/<Search>"
 	echo "          All verses in a book that match a pattern"
 	echo "      <Book>:<Chapter>/<Search>"
